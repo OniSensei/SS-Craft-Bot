@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="prefix" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ss.</Value>
+    </Setting>
+    <Setting Name="welcomeMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Please be sure to check the &lt;#745169386037444728&gt; before posting. Head on over to the Character Creations and select your &lt;#735611779702325318&gt;, &lt;#735624389286166618&gt;, &lt;#735626345337585878&gt;, &lt;#738175300588011720&gt;, and &lt;#738190674565922917&gt;!</Value>
+    </Setting>
+    <Setting Name="exprate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
