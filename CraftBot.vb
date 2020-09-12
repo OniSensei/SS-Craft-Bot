@@ -37,7 +37,7 @@ Module CraftBot
         ' Set thread
         Threading.Thread.CurrentThread.SetApartmentState(Threading.ApartmentState.STA)
 
-        Await _client.LoginAsync(TokenType.Bot, "NzUzMDM0NTM3NDk5NDkyNDUz.X1gUEA.m0Mt606Fac2sjQxK5J6T-umu0pU")
+        Await _client.LoginAsync(TokenType.Bot, "")
 
         ' Wait for the client to start
         Await _client.StartAsync
